@@ -7,8 +7,8 @@ Welcome to my Mainflow Data Science Internship tasks repository! Here, you’ll 
 
 ---
 
-### Week 1: Orientation and Initial Setup
-1. <details>
+<h2>Week 1: Orientation and Initial Setup</h2>
+<details>
     <summary>👋 Orientation and Setup</summary>
     <ul>
         <li>Got acquainted with company policies and data science team.</li>
@@ -17,8 +17,8 @@ Welcome to my Mainflow Data Science Internship tasks repository! Here, you’ll 
     </ul>
 </details>
 
-### Week 2: Data Cleaning and EDA
-1. <details>
+<h2>Week 2: Data Cleaning and EDA</h2>
+ <details>
     <summary>🧹 Data Cleaning and Exploratory Analysis</summary>
     <ul>
         <li>Completed data cleaning tasks, addressing missing values and standardizing formats.</li>
@@ -27,8 +27,8 @@ Welcome to my Mainflow Data Science Internship tasks repository! Here, you’ll 
     </ul>
 </details>
 
-### Week 3: Model Development and Evaluation
-1. <details>
+<h2> Week 3: Model Development and Evaluation</h2>
+ <details>
     <summary>🔍 Model Development and Evaluation</summary>
     <ul>
         <li>Built initial machine learning models using <code>scikit-learn</code>.</li>
@@ -37,8 +37,8 @@ Welcome to my Mainflow Data Science Internship tasks repository! Here, you’ll 
     </ul>
 </details>
 
-### Week 4: Advanced Analysis and Reporting
-1. <details>
+<h2> Week 4: Advanced Analysis and Reporting</h2>
+ <details>
     <summary>📊 Advanced Analysis and Reporting</summary>
     <ul>
         <li>Dived deeper into data analysis, identifying actionable insights.</li>
